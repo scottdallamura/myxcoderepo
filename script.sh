@@ -1,1 +1,1 @@
-echo ##vso[task.debug]%1
+echo "##vso[task.debug]%1"
